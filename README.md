@@ -31,6 +31,12 @@ Weather-Explorer/
 ├─ styles.css        # CSS styling
 └─ script.js         # JavaScript functionality
 ```
+## screenshot
+<img width="985" height="661" alt="image" src="https://github.com/user-attachments/assets/14e91ed5-3ee8-4b06-9281-a95a9817bfa8" />
+
+<img width="1107" height="822" alt="Screenshot 2026-03-09 132417" src="https://github.com/user-attachments/assets/b94352a6-0d4c-4528-9f1b-f2a9fce4e20d" />
+
+
 
 ## Future Improvements
 
